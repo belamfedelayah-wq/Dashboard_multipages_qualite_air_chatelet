@@ -1,0 +1,9 @@
+[theme]
+
+baseRadius = "medium"
+
+textColor = "#24314F"
+primaryColor = "#24314F"
+borderColor = "#24314F"
+backgroundColor = "#d7e3fc"
+secondaryBackgroundColor = "#edf2fb"
